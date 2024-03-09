@@ -8,7 +8,7 @@ The Farm Fresh Grocery Store allows users to browse a selection of fruits and ve
 
 ## File Structure
 
-.code
+.
 ├── Images/
 │ ├── apple.png
 │ ├── farmlogo.avif
