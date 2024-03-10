@@ -6,23 +6,6 @@ Welcome to the Farm Fresh Grocery Store project! This web-based application prov
 
 The Farm Fresh Grocery Store allows users to browse a selection of fruits and vegetables, add items to their cart, and place orders for delivery. It includes features such as user authentication, inventory management, and a checkout process.
 
-## File Structure
-
-
-├── Images/ 
-│ ├── apple.png
-│ ├── farmlogo.avif
-│ ├── invbg.jpg
-│ ├── loginbg.jpg
-│ ├── onion.png
-│ ├── pineapple.png
-│ ├── tomato.png
-│ └── watermelon.png
-│
-├── app.js
-├── index.html
-└── login.html
-
 
 ## Technologies Used
 
