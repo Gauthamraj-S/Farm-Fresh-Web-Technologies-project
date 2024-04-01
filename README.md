@@ -44,10 +44,3 @@ To run this project locally, follow these steps:
 
 - **POST /auth**: Authenticate users with their username and password. Returns user information if authentication is successful.
 
-## Contributors
-
-This project was created by [Your Name]. Contributions are welcome!
-
-## License
-
-This project is licensed under the [License Name] License.
